@@ -1,0 +1,522 @@
+{
+    "keras.layers.AlphaDropout": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/alpha_dropout.py",
+        "AlphaDropout",
+        "keras.src.layers.regularization.alpha_dropout"
+    ],
+    "keras.layers.SeparableConv1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/separable_conv1d.py",
+        "SeparableConv1D",
+        "keras.src.layers.convolutional.separable_conv1d"
+    ],
+    "keras.layers.Reshape": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/reshape.py",
+        "Reshape",
+        "keras.src.layers.reshaping.reshape"
+    ],
+    "keras.layers.Conv2DTranspose": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/conv2d_transpose.py",
+        "Conv2DTranspose",
+        "keras.src.layers.convolutional.conv2d_transpose"
+    ],
+    "keras.layers.Cropping2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/cropping2d.py",
+        "Cropping2D",
+        "keras.src.layers.reshaping.cropping2d"
+    ],
+    "keras.layers.ReLU": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/activations/relu.py",
+        "ReLU",
+        "keras.src.layers.activations.relu"
+    ],
+    "keras.layers.TorchModuleWrapper": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/utils/torch_utils.py",
+        "TorchModuleWrapper",
+        "keras.src.utils.torch_utils"
+    ],
+    "keras.layers.Conv1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/conv1d.py",
+        "Conv1D",
+        "keras.src.layers.convolutional.conv1d"
+    ],
+    "keras.layers.UpSampling3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/up_sampling3d.py",
+        "UpSampling3D",
+        "keras.src.layers.reshaping.up_sampling3d"
+    ],
+    "keras.layers.SimpleRNNCell": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/simple_rnn.py",
+        "SimpleRNNCell",
+        "keras.src.layers.rnn.simple_rnn"
+    ],
+    "keras.layers.AveragePooling3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/average_pooling3d.py",
+        "AveragePooling3D",
+        "keras.src.layers.pooling.average_pooling3d"
+    ],
+    "keras.layers.GaussianNoise": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/gaussian_noise.py",
+        "GaussianNoise",
+        "keras.src.layers.regularization.gaussian_noise"
+    ],
+    "keras.layers.GlobalMaxPooling3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/global_max_pooling3d.py",
+        "GlobalMaxPooling3D",
+        "keras.src.layers.pooling.global_max_pooling3d"
+    ],
+    "keras.layers.Dot": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/dot.py",
+        "Dot",
+        "keras.src.layers.merging.dot"
+    ],
+    "keras.layers.ZeroPadding3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/zero_padding3d.py",
+        "ZeroPadding3D",
+        "keras.src.layers.reshaping.zero_padding3d"
+    ],
+    "keras.layers.Average": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/average.py",
+        "Average",
+        "keras.src.layers.merging.average"
+    ],
+    "keras.layers.ConvLSTM3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/conv_lstm3d.py",
+        "ConvLSTM3D",
+        "keras.src.layers.rnn.conv_lstm3d"
+    ],
+    "keras.layers.UpSampling2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/up_sampling2d.py",
+        "UpSampling2D",
+        "keras.src.layers.reshaping.up_sampling2d"
+    ],
+    "keras.layers.MaxPooling3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/max_pooling3d.py",
+        "MaxPooling3D",
+        "keras.src.layers.pooling.max_pooling3d"
+    ],
+    "keras.layers.LSTMCell": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/lstm.py",
+        "LSTMCell",
+        "keras.src.layers.rnn.lstm"
+    ],
+    "keras.layers.GlobalMaxPooling2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/global_max_pooling2d.py",
+        "GlobalMaxPooling2D",
+        "keras.src.layers.pooling.global_max_pooling2d"
+    ],
+    "keras.layers.GlobalAveragePooling2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/global_average_pooling2d.py",
+        "GlobalAveragePooling2D",
+        "keras.src.layers.pooling.global_average_pooling2d"
+    ],
+    "keras.layers.SeparableConv2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/separable_conv2d.py",
+        "SeparableConv2D",
+        "keras.src.layers.convolutional.separable_conv2d"
+    ],
+    "keras.layers.Concatenate": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/concatenate.py",
+        "Concatenate",
+        "keras.src.layers.merging.concatenate"
+    ],
+    "keras.layers.AdditiveAttention": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/attention/additive_attention.py",
+        "AdditiveAttention",
+        "keras.src.layers.attention.additive_attention"
+    ],
+    "keras.layers.LeakyReLU": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/activations/leaky_relu.py",
+        "LeakyReLU",
+        "keras.src.layers.activations.leaky_relu"
+    ],
+    "keras.layers.ZeroPadding2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/zero_padding2d.py",
+        "ZeroPadding2D",
+        "keras.src.layers.reshaping.zero_padding2d"
+    ],
+    "keras.layers.Softmax": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/activations/softmax.py",
+        "Softmax",
+        "keras.src.layers.activations.softmax"
+    ],
+    "keras.layers.Maximum": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/maximum.py",
+        "Maximum",
+        "keras.src.layers.merging.maximum"
+    ],
+    "keras.layers.EinsumDense": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/core/einsum_dense.py",
+        "EinsumDense",
+        "keras.src.layers.core.einsum_dense"
+    ],
+    "keras.layers.GRUCell": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/gru.py",
+        "GRUCell",
+        "keras.src.layers.rnn.gru"
+    ],
+    "keras.layers.ConvLSTM1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/conv_lstm1d.py",
+        "ConvLSTM1D",
+        "keras.src.layers.rnn.conv_lstm1d"
+    ],
+    "keras.layers.ActivityRegularization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/activity_regularization.py",
+        "ActivityRegularization",
+        "keras.src.layers.regularization.activity_regularization"
+    ],
+    "keras.layers.Conv2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/conv2d.py",
+        "Conv2D",
+        "keras.src.layers.convolutional.conv2d"
+    ],
+    "keras.layers.UpSampling1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/up_sampling1d.py",
+        "UpSampling1D",
+        "keras.src.layers.reshaping.up_sampling1d"
+    ],
+    "keras.layers.SimpleRNN": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/simple_rnn.py",
+        "SimpleRNN",
+        "keras.src.layers.rnn.simple_rnn"
+    ],
+    "keras.layers.Cropping1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/cropping1d.py",
+        "Cropping1D",
+        "keras.src.layers.reshaping.cropping1d"
+    ],
+    "keras.layers.Conv3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/conv3d.py",
+        "Conv3D",
+        "keras.src.layers.convolutional.conv3d"
+    ],
+    "keras.layers.Minimum": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/minimum.py",
+        "Minimum",
+        "keras.src.layers.merging.minimum"
+    ],
+    "keras.layers.MultiHeadAttention": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/attention/multi_head_attention.py",
+        "MultiHeadAttention",
+        "keras.src.layers.attention.multi_head_attention"
+    ],
+    "keras.layers.Lambda": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/core/lambda_layer.py",
+        "Lambda",
+        "keras.src.layers.core.lambda_layer"
+    ],
+    "keras.layers.Multiply": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/multiply.py",
+        "Multiply",
+        "keras.src.layers.merging.multiply"
+    ],
+    "keras.layers.SpatialDropout2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/spatial_dropout.py",
+        "SpatialDropout2D",
+        "keras.src.layers.regularization.spatial_dropout"
+    ],
+    "keras.layers.GlobalAveragePooling3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/global_average_pooling3d.py",
+        "GlobalAveragePooling3D",
+        "keras.src.layers.pooling.global_average_pooling3d"
+    ],
+    "keras.layers.AveragePooling2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/average_pooling2d.py",
+        "AveragePooling2D",
+        "keras.src.layers.pooling.average_pooling2d"
+    ],
+    "keras.layers.Embedding": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/core/embedding.py",
+        "Embedding",
+        "keras.src.layers.core.embedding"
+    ],
+    "keras.layers.Subtract": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/subtract.py",
+        "Subtract",
+        "keras.src.layers.merging.subtract"
+    ],
+    "keras.layers.Identity": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/core/identity.py",
+        "Identity",
+        "keras.src.layers.core.identity"
+    ],
+    "keras.layers.Conv1DTranspose": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/conv1d_transpose.py",
+        "Conv1DTranspose",
+        "keras.src.layers.convolutional.conv1d_transpose"
+    ],
+    "keras.layers.SpatialDropout3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/spatial_dropout.py",
+        "SpatialDropout3D",
+        "keras.src.layers.regularization.spatial_dropout"
+    ],
+    "keras.layers.LSTM": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/lstm.py",
+        "LSTM",
+        "keras.src.layers.rnn.lstm"
+    ],
+    "keras.layers.DepthwiseConv2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/depthwise_conv2d.py",
+        "DepthwiseConv2D",
+        "keras.src.layers.convolutional.depthwise_conv2d"
+    ],
+    "keras.layers.GroupNormalization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/normalization/group_normalization.py",
+        "GroupNormalization",
+        "keras.src.layers.normalization.group_normalization"
+    ],
+    "keras.layers.PReLU": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/activations/prelu.py",
+        "PReLU",
+        "keras.src.layers.activations.prelu"
+    ],
+    "keras.layers.Permute": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/permute.py",
+        "Permute",
+        "keras.src.layers.reshaping.permute"
+    ],
+    "keras.layers.StackedRNNCells": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/stacked_rnn_cells.py",
+        "StackedRNNCells",
+        "keras.src.layers.rnn.stacked_rnn_cells"
+    ],
+    "keras.layers.AveragePooling1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/average_pooling1d.py",
+        "AveragePooling1D",
+        "keras.src.layers.pooling.average_pooling1d"
+    ],
+    "keras.layers.UnitNormalization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/normalization/unit_normalization.py",
+        "UnitNormalization",
+        "keras.src.layers.normalization.unit_normalization"
+    ],
+    "keras.layers.LayerNormalization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/normalization/layer_normalization.py",
+        "LayerNormalization",
+        "keras.src.layers.normalization.layer_normalization"
+    ],
+    "keras.layers.TFSMLayer": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/export/export_lib.py",
+        "TFSMLayer",
+        "keras.src.export.export_lib"
+    ],
+    "keras.layers.Add": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/merging/add.py",
+        "Add",
+        "keras.src.layers.merging.add"
+    ],
+    "keras.layers.GlobalMaxPooling1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/global_max_pooling1d.py",
+        "GlobalMaxPooling1D",
+        "keras.src.layers.pooling.global_max_pooling1d"
+    ],
+    "keras.layers.Flatten": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/flatten.py",
+        "Flatten",
+        "keras.src.layers.reshaping.flatten"
+    ],
+    "keras.layers.RepeatVector": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/repeat_vector.py",
+        "RepeatVector",
+        "keras.src.layers.reshaping.repeat_vector"
+    ],
+    "keras.layers.Conv3DTranspose": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/conv3d_transpose.py",
+        "Conv3DTranspose",
+        "keras.src.layers.convolutional.conv3d_transpose"
+    ],
+    "keras.layers.GRU": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/gru.py",
+        "GRU",
+        "keras.src.layers.rnn.gru"
+    ],
+    "keras.layers.Dropout": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/dropout.py",
+        "Dropout",
+        "keras.src.layers.regularization.dropout"
+    ],
+    "keras.layers.ConvLSTM2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/conv_lstm2d.py",
+        "ConvLSTM2D",
+        "keras.src.layers.rnn.conv_lstm2d"
+    ],
+    "keras.layers.GlobalAveragePooling1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/global_average_pooling1d.py",
+        "GlobalAveragePooling1D",
+        "keras.src.layers.pooling.global_average_pooling1d"
+    ],
+    "keras.layers.BatchNormalization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/normalization/batch_normalization.py",
+        "BatchNormalization",
+        "keras.src.layers.normalization.batch_normalization"
+    ],
+    "keras.layers.Activation": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/activations/activation.py",
+        "Activation",
+        "keras.src.layers.activations.activation"
+    ],
+    "keras.layers.SpatialDropout1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/spatial_dropout.py",
+        "SpatialDropout1D",
+        "keras.src.layers.regularization.spatial_dropout"
+    ],
+    "keras.layers.DepthwiseConv1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/convolutional/depthwise_conv1d.py",
+        "DepthwiseConv1D",
+        "keras.src.layers.convolutional.depthwise_conv1d"
+    ],
+    "keras.layers.MaxPooling2D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/max_pooling2d.py",
+        "MaxPooling2D",
+        "keras.src.layers.pooling.max_pooling2d"
+    ],
+    "keras.layers.Dense": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/core/dense.py",
+        "Dense",
+        "keras.src.layers.core.dense"
+    ],
+    "keras.layers.Masking": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/core/masking.py",
+        "Masking",
+        "keras.src.layers.core.masking"
+    ],
+    "keras.layers.ELU": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/activations/elu.py",
+        "ELU",
+        "keras.src.layers.activations.elu"
+    ],
+    "keras.layers.TimeDistributed": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/time_distributed.py",
+        "TimeDistributed",
+        "keras.src.layers.rnn.time_distributed"
+    ],
+    "keras.layers.Bidirectional": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/bidirectional.py",
+        "Bidirectional",
+        "keras.src.layers.rnn.bidirectional"
+    ],
+    "keras.layers.ZeroPadding1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/zero_padding1d.py",
+        "ZeroPadding1D",
+        "keras.src.layers.reshaping.zero_padding1d"
+    ],
+    "keras.layers.MaxPooling1D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/pooling/max_pooling1d.py",
+        "MaxPooling1D",
+        "keras.src.layers.pooling.max_pooling1d"
+    ],
+    "keras.layers.RNN": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/rnn/rnn.py",
+        "RNN",
+        "keras.src.layers.rnn.rnn"
+    ],
+    "keras.layers.Cropping3D": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/reshaping/cropping3d.py",
+        "Cropping3D",
+        "keras.src.layers.reshaping.cropping3d"
+    ],
+    "keras.layers.Attention": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/attention/attention.py",
+        "Attention",
+        "keras.src.layers.attention.attention"
+    ],
+    "keras.layers.GaussianDropout": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/regularization/gaussian_dropout.py",
+        "GaussianDropout",
+        "keras.src.layers.regularization.gaussian_dropout"
+    ],
+    "keras.layers.TextVectorization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/text_vectorization.py",
+        "TextVectorization",
+        "keras.src.layers.preprocessing.text_vectorization"
+    ],
+    "keras.layers.Normalization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/normalization.py",
+        "Normalization",
+        "keras.src.layers.preprocessing.normalization"
+    ],
+    "keras.layers.SpectralNormalization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/normalization/spectral_normalization.py",
+        "SpectralNormalization",
+        "keras.src.layers.normalization.spectral_normalization"
+    ],
+    "keras.layers.Discretization": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/discretization.py",
+        "Discretization",
+        "keras.src.layers.preprocessing.discretization"
+    ],
+    "keras.layers.CategoryEncoding": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/category_encoding.py",
+        "CategoryEncoding",
+        "keras.src.layers.preprocessing.category_encoding"
+    ],
+    "keras.layers.Hashing": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/hashing.py",
+        "Hashing",
+        "keras.src.layers.preprocessing.hashing"
+    ],
+    "keras.layers.HashedCrossing": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/hashed_crossing.py",
+        "HashedCrossing",
+        "keras.src.layers.preprocessing.hashed_crossing"
+    ],
+    "keras.layers.StringLookup": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/string_lookup.py",
+        "StringLookup",
+        "keras.src.layers.preprocessing.string_lookup"
+    ],
+    "keras.layers.IntegerLookup": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/integer_lookup.py",
+        "IntegerLookup",
+        "keras.src.layers.preprocessing.integer_lookup"
+    ],
+    "keras.layers.Resizing": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/resizing.py",
+        "Resizing",
+        "keras.src.layers.preprocessing.resizing"
+    ],
+    "keras.layers.Rescaling": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/rescaling.py",
+        "Rescaling",
+        "keras.src.layers.preprocessing.rescaling"
+    ],
+    "keras.layers.CenterCrop": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/center_crop.py",
+        "CenterCrop",
+        "keras.src.layers.preprocessing.center_crop"
+    ],
+    "keras.layers.RandomCrop": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_crop.py",
+        "RandomCrop",
+        "keras.src.layers.preprocessing.random_crop"
+    ],
+    "keras.layers.RandomFlip": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_flip.py",
+        "RandomFlip",
+        "keras.src.layers.preprocessing.random_flip"
+    ],
+    "keras.layers.RandomTranslation": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_translation.py",
+        "RandomTranslation",
+        "keras.src.layers.preprocessing.random_translation"
+    ],
+    "keras.layers.RandomRotation": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_rotation.py",
+        "RandomRotation",
+        "keras.src.layers.preprocessing.random_rotation"
+    ],
+    "keras.layers.RandomZoom": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_zoom.py",
+        "RandomZoom",
+        "keras.src.layers.preprocessing.random_zoom"
+    ],
+    "keras.layers.RandomContrast": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_contrast.py",
+        "RandomContrast",
+        "keras.src.layers.preprocessing.random_contrast"
+    ],
+    "keras.layers.RandomBrightness": [
+        "/home/sunshuo/anaconda3/envs/FSE25/lib/python3.10/site-packages/keras/src/layers/preprocessing/random_brightness.py",
+        "RandomBrightness",
+        "keras.src.layers.preprocessing.random_brightness"
+    ]
+}
